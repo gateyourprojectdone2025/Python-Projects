@@ -17,7 +17,7 @@
 
 **Overview**
 The Flight Booking System is a software application designed to help customers search, book, and manage flight tickets online. It also provides an Admin Panel for managing flights, schedules, and passenger details. This project can be built either as a Django web application or as a Python console/GUI-based system.
------
+
 
 **Advantages**
 
@@ -27,9 +27,10 @@ The Flight Booking System is a software application designed to help customers s
 -Transparency – Users see availability, price, and schedule before booking.
 -Paperless– Digital tickets reduce manual effort.
 -Scalable – Can integrate with payment gateways, APIs, and mobile apps.
-------
+
 
 **🚀 Features**
+
 **👨‍💼 Admin**
 -Add, update, or delete flight details
 
@@ -52,7 +53,7 @@ The Flight Booking System is a software application designed to help customers s
 
 -View booking history and details
 
------
+
 **Project Link**
 
 ***
