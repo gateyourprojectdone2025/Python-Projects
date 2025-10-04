@@ -14,11 +14,13 @@
 **1.Flight Booking System Using Python**
 
 <img width="1874" height="911" alt="flight booking" src="https://github.com/user-attachments/assets/8f5d3ce7-a2de-4fc3-9936-1cd45e10cb04" />
------
+
 **Overview**
 The Flight Booking System is a software application designed to help customers search, book, and manage flight tickets online. It also provides an Admin Panel for managing flights, schedules, and passenger details. This project can be built either as a Django web application or as a Python console/GUI-based system.
 -----
+
 **Advantages**
+
 -Convenient – Customers can book flights anytime, anywhere.
 -Time-Saving – No need to visit counters physically.
 -Efficient Management – Admin can track flights and bookings in real-time.
@@ -52,12 +54,10 @@ The Flight Booking System is a software application designed to help customers s
 
 -----
 **Project Link**
+
 ***
 https://www.getyourprojectdone.in/projects/Flight-Booking-System
 ***
-
-
-
 ----------------------------------------------------------
 2.Event Management System Using Python
 
