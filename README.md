@@ -11,27 +11,28 @@
 ## 10.AgroSmart-BD Agro Management System Using Python
 
 -------------------------------------------------------
-**1.Flight Booking System Using Python**
+## 1.Flight Booking System Using Python
 
 <img width="1874" height="911" alt="flight booking" src="https://github.com/user-attachments/assets/8f5d3ce7-a2de-4fc3-9936-1cd45e10cb04" />
 
-**Overview**
+## Overview
 The Flight Booking System is a software application designed to help customers search, book, and manage flight tickets online. It also provides an Admin Panel for managing flights, schedules, and passenger details. This project can be built either as a Django web application or as a Python console/GUI-based system.
 
 
-**Advantages**
+## Advantages
 
--Convenient – Customers can book flights anytime, anywhere.
--Time-Saving – No need to visit counters physically.
--Efficient Management – Admin can track flights and bookings in real-time.
--Transparency – Users see availability, price, and schedule before booking.
--Paperless– Digital tickets reduce manual effort.
--Scalable – Can integrate with payment gateways, APIs, and mobile apps.
+**-Convenient** – Customers can book flights anytime, anywhere.
+**-Time-Saving**– No need to visit counters physically.
+**-Efficient Management** – Admin can track flights and bookings in real-time.
+**-Transparency** – Users see availability, price, and schedule before booking.
+**-Paperless**– Digital tickets reduce manual effort.
+**-Scalable** – Can integrate with payment gateways, APIs, and mobile apps.
 
 
-**🚀 Features**
+## 🚀 Features
 
-**👨‍💼 Admin**
+## 👨‍💼 Admin
+
 -Add, update, or delete flight details
 
 -Manage flight schedules (source, destination, departure, arrival)
@@ -42,7 +43,8 @@ The Flight Booking System is a software application designed to help customers s
 
 -Generate booking reports
 
-**👩 User**
+## 👩 User
+
 -Register/Login securely
 
 -Search flights by source, destination, and date
