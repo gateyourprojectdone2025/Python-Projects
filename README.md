@@ -65,7 +65,7 @@ The Flight Booking System is a software application designed to help customers s
 https://www.getyourprojectdone.in/projects/Flight-Booking-System
 ***
 
-----------------------------------------------------------
+
 ## 2.Event Management System Using Python
 <img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/d41d0c48-0ad8-45a8-81fc-5ce9f2a22569" />
 
@@ -116,13 +116,61 @@ The Event Management System is a web-based application built using Python (Djang
 https://www.getyourprojectdone.in/projects/Event-Management-System-Using-Python
 ***
 
--------------------------------------------------------
-3.Home services platforms Using Python
+
+## 3.Home services platforms Using Python
+<img width="1882" height="911" alt="image" src="https://github.com/user-attachments/assets/d4fe54ce-021f-4b13-a4b6-106b968e7c8e" />
+
+## Overview
+The Home Services Platform is a web-based application built using Python (Django/Flask) that connects customers with service providers for various household needs such as plumbing, electrical work, cleaning, carpentry, and more. The system allows users to book services, schedule appointments, and make payments online, while service providers can manage bookings and track their work.
+
+## Features
+## User Features
+-Register and login to the platform
+
+-Browse and search for available home services
+
+-Book a service (plumbing, cleaning, electrical, carpentry, etc.)
+
+-Schedule appointments and track booking status
+
+-Online payment option (optional integration)
+
+-View booking history
+
+-Service Provider Features
+
+-Register as a service provider
+
+-Manage profile and services offered
+
+-Accept or reject bookings
+
+## Admin Features
+-Manage users and service providers
+
+-Add, edit, and remove services
+
+-Monitor bookings and payments
+
+-Generate reports
+
+## Tech Stack
+-Backend: Python (Django / Flask)
+
+-Frontend: HTML, CSS, JavaScript, Bootstrap
+
+-Database: SQLite (default) / MySQL / PostgreSQL
+
+-Authentication: Django’s built-in User model
+
+-Payment Integration (Optional): Razorpay, Stripe, or PayPal
+
+## Project Link
+***
+https://www.getyourprojectdone.in/projects/Home-services-platforms-Using-Python
+***
 
 
-
-
--------------------------------------------------------
 4.E-commerce Shoe Store Web Application Using Python
 
 
