@@ -171,7 +171,52 @@ https://www.getyourprojectdone.in/projects/Home-services-platforms-Using-Python
 ***
 
 
-4.E-commerce Shoe Store Web Application Using Python
+## 4.E-commerce Shoe Store Web Application Using Python
+<img width="1882" height="915" alt="image" src="https://github.com/user-attachments/assets/774632e4-a057-426e-974d-64baf1447c79" />
+
+## Overview
+The Shoe Store Web Application is a fully functional e-commerce platform developed using Python Django Framework. It allows customers to browse shoes, add to cart, make purchases online, and track their orders. Admins can manage products, categories, orders, and customers efficiently through an admin dashboard.
+
+## 🚀 Features
+## 👨‍💼 Admin
+-Manage product catalog (Add, Update, Delete shoes)
+
+-Manage categories (Men, Women, Kids, Sports, Casual)
+
+-Track and manage orders
+
+-Manage users and customer details
+
+-Generate sales reports
+
+## 👩 Customers
+-Register/Login securely
+
+-Browse shoes by category and filters
+
+-Add products to cart and place orders
+
+-Track order status (Pending, Shipped, Delivered)
+
+-View order history
+
+## 🌟 Advantages
+**Convenient Shopping**– Customers can browse and order shoes online anytime.
+
+**Efficient Management**– Admin can manage products, orders, and users efficiently.
+
+**Time-Saving** – Eliminates the need for physical visits to stores.
+
+**Secure Transactions** – With Django authentication and optional payment integration.
+
+**Transparency** – Users can track order status and history.
+
+**Scalable** – Can integrate more product categories, reviews, and mobile apps.
+
+## Project Link
+***
+https://www.getyourprojectdone.in/projects/E-commerce-Shoe-Store-Web-Application-Using-Python
+***
 
 
 
