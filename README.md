@@ -221,7 +221,8 @@ https://www.getyourprojectdone.in/projects/E-commerce-Shoe-Store-Web-Application
 ***
 
 ## 5.Student Result Management System Using Python
-<img width="1901" height="913" alt="image" src="https://github.com/user-attachments/assets/48b7f2bf-c090-4698-9295-083894366476" />
+<img width="1550" height="503" alt="image" src="https://github.com/user-attachments/assets/1cdbd5de-8f8f-4ab0-a6d5-7c06cd1eaef8" />
+
 
 A Student Attendance Management System built using Python (Django Framework) for educational purposes.
 If you find this project useful, don’t forget to Star this repository!
@@ -373,7 +374,8 @@ https://www.getyourprojectdone.in/projects/GYM-Management-System-Using-Python
 ***
 
 ## 8.Hospital Management System Using Python
-<img width="1906" height="843" alt="image" src="https://github.com/user-attachments/assets/a3cc7881-8cd8-45b1-85f8-4687dc733106" />
+<img width="566" height="398" alt="image" src="https://github.com/user-attachments/assets/c860473d-261a-4509-a5ad-655b1ce248f0" />
+
 
 ## Overview
 The Hospital Management System (HMS) is a Python-based application that helps manage the day-to-day operations of hospitals and clinics. It provides an easy way to handle patient records, doctor schedules, appointments, billing, and staff management efficiently.
