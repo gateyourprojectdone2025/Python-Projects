@@ -13,7 +13,7 @@
 -------------------------------------------------------
 ## 1.Flight Booking System Using Python
 
-<img width="1874" height="911" alt="flight booking" src="https://github.com/user-attachments/assets/8f5d3ce7-a2de-4fc3-9936-1cd45e10cb04" />
+<img width="1443" height="786" alt="image" src="https://github.com/user-attachments/assets/bb34d904-a964-4128-80e5-7329f2e25856" />
 
 ## Overview
 The Flight Booking System is a software application designed to help customers search, book, and manage flight tickets online. It also provides an Admin Panel for managing flights, schedules, and passenger details. This project can be built either as a Django web application or as a Python console/GUI-based system.
@@ -118,7 +118,8 @@ https://www.getyourprojectdone.in/projects/Event-Management-System-Using-Python
 
 
 ## 3.Home services platforms Using Python
-<img width="1882" height="911" alt="image" src="https://github.com/user-attachments/assets/d4fe54ce-021f-4b13-a4b6-106b968e7c8e" />
+<img width="877" height="427" alt="image" src="https://github.com/user-attachments/assets/2d774689-a67e-4d87-8ae4-6495913a4488" />
+
 
 ## Overview
 The Home Services Platform is a web-based application built using Python (Django/Flask) that connects customers with service providers for various household needs such as plumbing, electrical work, cleaning, carpentry, and more. The system allows users to book services, schedule appointments, and make payments online, while service providers can manage bookings and track their work.
@@ -172,7 +173,8 @@ https://www.getyourprojectdone.in/projects/Home-services-platforms-Using-Python
 
 
 ## 4.E-commerce Shoe Store Web Application Using Python
-<img width="1882" height="915" alt="image" src="https://github.com/user-attachments/assets/774632e4-a057-426e-974d-64baf1447c79" />
+<img width="884" height="369" alt="image" src="https://github.com/user-attachments/assets/0d103ab1-47a2-4470-80b0-5d2deb159983" />
+
 
 ## Overview
 The Shoe Store Web Application is a fully functional e-commerce platform developed using Python Django Framework. It allows customers to browse shoes, add to cart, make purchases online, and track their orders. Admins can manage products, categories, orders, and customers efficiently through an admin dashboard.
@@ -218,7 +220,7 @@ The Shoe Store Web Application is a fully functional e-commerce platform develop
 https://www.getyourprojectdone.in/projects/E-commerce-Shoe-Store-Web-Application-Using-Python
 ***
 
-5.Student Result Management System Using Python
+## 5.Student Result Management System Using Python
 <img width="1901" height="913" alt="image" src="https://github.com/user-attachments/assets/48b7f2bf-c090-4698-9295-083894366476" />
 
 A Student Attendance Management System built using Python (Django Framework) for educational purposes.
