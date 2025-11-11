@@ -67,7 +67,8 @@ https://www.getyourprojectdone.in/projects/Flight-Booking-System
 
 
 ## 2.Event Management System Using Python
-<img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/d41d0c48-0ad8-45a8-81fc-5ce9f2a22569" />
+
+<img width="1699" height="996" alt="image" src="https://github.com/user-attachments/assets/9bc27281-caac-4dac-a200-0e87cd5a4194" />
 
 ## Overview
 The Event Management System is a web-based application built using Python (Django Framework). It helps users create, manage, and participate in events such as workshops, conferences, concerts, and meetings. Admins can manage event listings, users, and registrations, while participants can browse and register for events easily.
@@ -320,7 +321,8 @@ https://www.getyourprojectdone.in/projects/Attendance-Management-System-Using-Py
 ***
 
 ## 7.GYM Management System Using Python
-<img width="1886" height="869" alt="image" src="https://github.com/user-attachments/assets/e1ef9497-5f9a-44cd-afe2-9943855404a4" />
+<img width="623" height="624" alt="image" src="https://github.com/user-attachments/assets/586ea289-fa4a-46bc-9a4f-4fbeed0241d1" />
+
 ## Overview
 The Gym Management System is a web-based application developed using Python Django Framework. It helps gym owners and staff manage members, trainers, subscriptions, schedules, and payments efficiently. This system reduces manual effort, improves record-keeping, and provides real-time tracking of gym operations.
 ## 🚀 Features
@@ -411,7 +413,8 @@ https://www.getyourprojectdone.in/projects/Hospital-Management-System
 ***
 
 ## 9.Travel Booking And Management System Using Python
-<img width="1886" height="870" alt="image" src="https://github.com/user-attachments/assets/0ebaafb8-5b87-422d-a963-3478ff41e288" />
+![Uploading image.png…]()
+
 
 
 ## Overview
